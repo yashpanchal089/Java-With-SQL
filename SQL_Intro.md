@@ -25,6 +25,8 @@ It allows users to **store, retrieve, update, and delete data** efficiently.
 - Enables **data analysis and reporting**  
 - Essential for **backend development, data analytics, and business intelligence**
 
+---
+
 ## ⚙️ 2️⃣ How SQL Works?
 SQL interacts with a **Database Management System (DBMS)** to execute commands.  
 
