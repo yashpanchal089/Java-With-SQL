@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Learn+SQL;Master+DDL+DML+DCL+TCL)](https://git.io/typing-svg)
+
 SQL Basics: DDL, DML, DCL & TCL
 
 SQL commands are grouped into four main categories based on what they do.
@@ -93,4 +95,5 @@ Tips:
 - DDL → Think “structure”
 - DML → Think “data”
 - DCL → Think “permissions”
+
 - TCL → Think “transactions”
