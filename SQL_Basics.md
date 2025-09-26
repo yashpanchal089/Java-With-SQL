@@ -30,6 +30,8 @@ TRUNCATE TABLE students;
 
 💡 Tip: Think “structure” when using DDL commands.
 
+---
+
 ## 📝 2️⃣ DML – Data Manipulation Language
 Purpose: Manipulate data inside tables.
 
@@ -39,7 +41,7 @@ UPDATE : Modify existing records
 DELETE : Remove records
 SELECT : Retrieve records
 
-**Example:**
+**Example: **
 INSERT INTO students (id, name, age) VALUES (1, 'Yash', 23);
 UPDATE students SET age = 24 WHERE id = 1;
 DELETE FROM students WHERE id = 1;
@@ -93,3 +95,4 @@ TCL → Transactions
 🌟 Let’s Practice!
 Try creating a small database, adding tables, inserting some data, and experimenting with transactions.
 SQL is all about hands-on learning!
+
