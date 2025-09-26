@@ -51,4 +51,4 @@ SQL interacts with a **Database Management System (DBMS)** to execute commands.
 
 🌟 SQL is the backbone of relational databases – mastering it is the **first step toward becoming a data-savvy developer**!  
 
-![SQL GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![SQL GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhybzBvNHh4ajRvZ2VlZnp5bXJwZHFyYW5nbXIzejRxYzI5YnlhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif)
