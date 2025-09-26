@@ -1,6 +1,10 @@
 
 # 📘 SQL Data Types (Detailed Guide)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Numeric+Types;String+Types;Date+%26+Time+Types;Binary+Types;TINYINT;SMALLINT;INT;BIGINT;DECIMAL;FLOAT;CHAR;VARCHAR;TEXT;ENUM;SET;DATE;DATETIME;TIMESTAMP;BLOB;LONGBLOB)](https://git.io/typing-svg)
+
+## **💡 Mastering SQL Data Types — the foundation of efficient databases.**
+
 SQL data types define the kind of values a column can store in a database table.  
 They are broadly categorized as:  
 1. **Numeric Types**  
